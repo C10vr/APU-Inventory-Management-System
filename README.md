@@ -1,4 +1,4 @@
-# APU-Inventory-Management-System
+# Inventory-Management-System
 Python, Inventory Management System for Personal Protective Equipment | 2024
 
 # Project Overview 
